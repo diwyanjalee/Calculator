@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Admin\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Admin\Desktop\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\Admin\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.formcal.resources
+C:\Users\Admin\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.Resources.resources
+C:\Users\Admin\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\Admin\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.xml
+C:\Users\Admin\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
